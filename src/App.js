@@ -30,7 +30,7 @@ function App () {
 
   const renderFormats = (formats, hasAudio) => {
     return formats
-      .filter((format) => hasAudio ? format.audio_channels > 0 : format.audio_channels === 0)
+      .filter((format) => hasAudio ? format.audio_channels > 0 : format.audio_channels === null)
       .map((format) => (
         <li key={format.format_id}>
           {format.format} - {format.resolution}
