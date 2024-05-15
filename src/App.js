@@ -107,6 +107,11 @@ function App () {
           crossorigin="anonymous"></script>
       </header>
       <Features />
+      <footer>
+        <a href="/privacy-policy" target="_blank" rel="noopener noreferrer">
+          Privacy Policy
+        </a>
+      </footer>
     </div>
   )
 }

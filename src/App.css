@@ -200,4 +200,25 @@ body {
     width: 100%;
     margin-bottom: 10px;
   }
+
+  .adsbygoogle {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+  }
+
+  footer {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  footer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  footer a:hover {
+    text-decoration: underline;
+  }
 }
