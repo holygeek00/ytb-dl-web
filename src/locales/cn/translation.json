@@ -1,0 +1,13 @@
+{
+  "title": "Youtube 视频/照片下载",
+  "subtitle": "无水印，高清质量，免费，简单，快速",
+  "paste_placeholder": "在这里粘贴Youtube链接",
+  "paste_button": "粘贴",
+  "get_info_button": "获取信息",
+  "formats_with_audio": "可用格式（有声）：",
+  "formats_without_audio": "可用格式（无声）：",
+  "download": "下载",
+  "uploaded_by": "上传者",
+  "duration": "时长",
+  "language": "语言"
+}
